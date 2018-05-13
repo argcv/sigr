@@ -70,10 +70,16 @@ signal: interrupt
 ```
 
 
+## Docs
+
+Plese refer to [this link][go-doc-link] for the docs
+
+
 [badge-travis]:    https://travis-ci.org/argcv/sigr.svg?branch=master
 [link-travis]:     https://travis-ci.org/argcv/sigr
 [image-travis]:    https://github.com/argcv/sigr/blob/master/img/TravisCI.png
 [badge-license]:   https://img.shields.io/badge/license-MIT-007EC7.svg
+[go-doc-link]:     https://godoc.org/github.com/argcv/sigr
 
 
 
